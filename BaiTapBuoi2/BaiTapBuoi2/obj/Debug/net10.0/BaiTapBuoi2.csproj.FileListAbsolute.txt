@@ -1,0 +1,16 @@
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.exe
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.deps.json
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.runtimeconfig.json
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.runtimeconfig.dev.json
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.dll
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\net10.0\BaiTapBuoi2.pdb
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.AssemblyInfoInputs.cache
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.AssemblyInfo.cs
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.csproj.CoreCompileInputs.cache
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.dll
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\refint\BaiTapBuoi2.dll
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.pdb
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBuoi2.genruntimeconfig.cache
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\ref\BaiTapBuoi2.dll
+D:\grind\CMP170\CMP170\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\net10.0\BaiTapBu.B26CE509.Up2Date

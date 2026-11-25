@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\grind\\CMP170\\CMP170\\BaiTapBuoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3110C3E7-30D5-46A8-88B3-8DDBD8B2E849}|BaiTapBuoi2\\BaiTapBuoi2.csproj|d:\\grind\\cmp170\\cmp170\\baitapbuoi2\\baitapbuoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3110C3E7-30D5-46A8-88B3-8DDBD8B2E849}|BaiTapBuoi2\\BaiTapBuoi2.csproj|solutionrelative:baitapbuoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\grind\\CMP170\\CMP170\\BaiTapBuoi2\\BaiTapBuoi2\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapBuoi2\\Program.cs",
+              "ToolTip": "D:\\grind\\CMP170\\CMP170\\BaiTapBuoi2\\BaiTapBuoi2\\Program.cs",
+              "RelativeToolTip": "BaiTapBuoi2\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T03:41:35.574Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
